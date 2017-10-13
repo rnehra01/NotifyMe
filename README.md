@@ -15,6 +15,10 @@ So, we're developing which help you to keep track of your important stuff.
 
 A working demo is given in this [video](https://youtu.be/iMNjzHnxy5s)
 
+Gmail and Outlook API's used for emails 
+
+Yahoo Weather API used for weather information
+
 #### Contributors:
 
 [Sudhanshu Sambharya](https://github.com/sudwebd)
